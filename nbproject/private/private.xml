@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/CRR/View/liste_crr.php</file>
+            <file>file:/C:/wamp/www/CRR/View/liste_fonction.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/set_liste_present.php</file>
+            <file>file:/C:/wamp/www/CRR/View/ajouter_projet.php</file>
+            <file>file:/C:/wamp/www/CRR/View/ajouter_crr_user.php</file>
+            <file>file:/C:/wamp/www/CRR/View/liste_projet.php</file>
+            <file>file:/C:/wamp/www/CRR/View/css/font-awesome.css</file>
+            <file>file:/C:/wamp/www/CRR/View/css/login.css</file>
+            <file>file:/C:/wamp/www/CRR/Model/crr.php</file>
+            <file>file:/C:/wamp/www/CRR/View/ajouter_crr.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/insert_user_controller.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/insert_crr_controller.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/autentificationController.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/log_out.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/set_code_libelle_projet.php</file>
+            <file>file:/C:/wamp/www/CRR/Model/projet.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/insert_fonction_controller.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/set_code_libelle_fonction.php</file>
+            <file>file:/C:/wamp/www/CRR/Model/connection.php</file>
+            <file>file:/C:/wamp/www/CRR/Model/fonction.php</file>
+            <file>file:/C:/wamp/www/CRR/View/ajouter_utilisateur.php</file>
+            <file>file:/C:/wamp/www/CRR/View/liste_crr_user.php</file>
+            <file>file:/C:/wamp/www/CRR/View/liste_utilisateurs.php</file>
+            <file>file:/C:/wamp/www/CRR/View/css/theme.css</file>
+            <file>file:/C:/wamp/www/CRR/View/ajouter_fonction.php</file>
+            <file>file:/C:/wamp/www/CRR/View/index.php</file>
+            <file>file:/C:/wamp/www/CRR/View/css/style.css</file>
+            <file>file:/C:/wamp/www/CRR/controller/show_user.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/show_fonction.php</file>
+            <file>file:/C:/wamp/www/CRR/View/css/bootstrap.css</file>
+            <file>file:/C:/wamp/www/CRR/Model/users.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/show_crr.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/insert_projet_controller.php</file>
+            <file>file:/C:/wamp/www/CRR/controller/show_projet.php</file>
+        </group>
+    </open-files>
+</project-private>
